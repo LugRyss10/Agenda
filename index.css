@@ -1,0 +1,22 @@
+.contacto
+{
+    size: 15px;
+    background-color: #ffe4c4;
+    border-radius: 12%;
+    padding: 18px;
+}
+.titulo
+{
+    font-weight: bold;
+    padding-bottom: 18px;
+    padding-right: 30px;
+}
+
+.valor
+{
+    font-weight: 90%;;
+
+}
+.fila{
+    display: flex;
+}
